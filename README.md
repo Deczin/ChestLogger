@@ -28,7 +28,7 @@ O **ChestLogger** registra interações com baús (itens adicionados/removidos) 
 - Java 21+
 - PaperMC 1.21+
 - Plugin **ConnectionDC**
-
+- Maven
 ---
 
 ## 🔗 Dependência
@@ -42,3 +42,4 @@ No `plugin.yml`:
 ```yml
 depend:
   - ConnectionDC
+

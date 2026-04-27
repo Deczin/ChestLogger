@@ -1,4 +1,6 @@
 # 📦 ChestLogger
+![Java](https://img.shields.io/badge/Java-21-orange)
+![Maven](https://img.shields.io/badge/build-Maven-blue)
 
 Plugin de log de baús para servidores Minecraft (Paper), com integração ao Discord via ConnectionDC.
 
@@ -26,7 +28,7 @@ O **ChestLogger** registra interações com baús (itens adicionados/removidos) 
 ## ⚙️ Requisitos
 
 - Java 21+
-- PaperMC 1.21+
+- PaperMC API 1.21+
 - Plugin **ConnectionDC**
 - Maven para build do plugin
 ---

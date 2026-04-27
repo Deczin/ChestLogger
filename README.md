@@ -42,4 +42,8 @@ No `plugin.yml`:
 ```yml
 depend:
   - ConnectionDC
+```
 
+## Servidor para tirar dúvidas
+
+- https://discord.gg/huq8bwmS5F

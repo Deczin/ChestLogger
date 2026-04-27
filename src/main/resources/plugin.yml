@@ -1,0 +1,6 @@
+name: ChestLogger
+version: 1.0
+main: me.deczin.chestlogger.ChestLogger
+api-version: 1.21
+depend:
+  - ConnectionDC
